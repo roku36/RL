@@ -13,7 +13,7 @@ dependencies = [
     "jaxlib>=0.1.65",
     "matplotlib",
     "pyyaml",
-    "evojax>=0.2.16",
+    "evojax[extra]>=0.2.16",
 ]
 readme = "README.md"
 requires-python = ">=3.8"
